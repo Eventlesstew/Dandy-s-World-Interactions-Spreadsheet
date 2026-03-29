@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import copy
 import cloudscraper
 import csv
 
@@ -28,8 +29,9 @@ def get_interactions(toons):
     dictionary = {}
     for i in range(0, len(toons)):
         dictionary[toons[i]] = i
-        result[0].append(toons[i])
-        newrow = [toons[i]]
+        new_name = copy.copy(toons[i]).upper()
+        result[0].append(new_name)
+        newrow = [new_name]
         for n in toons:
             newrow.append("")
         result.append(newrow)
@@ -45,7 +47,7 @@ def get_interactions(toons):
             table = t.find('tbody')
             rows = table.find_all('tr')
 
-            interaction = [c, '', ""]
+            interaction = [copy.copy(c), '', ""]
             nextfloor = False
             for i in rows:
                 cells = i.find_all('td')
@@ -73,21 +75,24 @@ def get_interactions(toons):
                                 pass
                 else:
                     if len(cells) >= 3:
-                        name_ref = cells[len(cells) - 3].find('a')
-                        name = ""
+                        name_ref = cells[0].find('a')
+                        other_name = ""
                         if name_ref:
-                            name = name_ref.text
+                            other_name = name_ref.text
+                            other_name.strip()
                             try:
                                 key1 = dictionary[interaction[0]]+1
-                                key2 = dictionary[interaction[1]]+1
-                                if result[key1][key2] != "":
-                                    result[key1][key2] += "\n\n"
-                                result[key1][key2] += interaction[2]
+                                try:
+                                    key2 = dictionary[interaction[1]]+1
+                                    if result[key1][key2] != "":
+                                        result[key1][key2] += "\n\n"
+                                    result[key1][key2] += interaction[2]
+                                except KeyError:
+                                    pass
                             except KeyError:
                                 pass
                         
-                        name.strip()
-                        interaction[1] = name
+                        interaction[1] = other_name
                         interaction[2] = ""
                 
                     if len(cells) >= 2:
@@ -104,20 +109,21 @@ def get_interactions(toons):
                                     n += s
                             
                             n.strip()
-                            name = n[::-1]
+                            other_name = copy.copy(n[::-1])
 
                             text = text_ref.text
 
                             # This gives Blot his reversed text translation.
-                            if name == "Blot":
+                            if other_name == "Blot":
                                 text += " (" + text_ref.text[::-1] + ")"
-                            
+                            other_name = other_name.replace("%26", "&")
+                            other_name = other_name.replace("_", " ")
+                            text = text.replace("â", "'")
+
                             if interaction[2] != "":
                                 interaction[2] += "\n"
 
-                            name.replace("%26", "&")
-                            name.replace("_", " ")
-                            interaction[2] += name + ": " + text
+                            interaction[2] += other_name + ": " + text
     
     return result
 
