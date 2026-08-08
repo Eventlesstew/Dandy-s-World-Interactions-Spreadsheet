@@ -1,4 +1,4 @@
-name,ASTRO,BASSIE,BLOT,BOBETTE,BOXTEN,BRIGHTNEY,BRUSHA,COAL,COCOA,CONNIE,COSMO,DANDY,DYLE,ECLIPSE,EGGSON,FINN,FLUTTER,FLYTE,GIGI,GINGER,GLISTEN,GOOB,GOURDY,LOOEY,PEBBLE,POPPY,RAZZLE & DAZZLE,RIBECCA,RODGER,RUDIE,SCRAPS,SHELLY,SHRIMPO,SOULVESTER,SPROUT,SQUIRM,TEAGAN,TISHA,TOODLES,VEE,YATTA
+name,ASTRO,BASSIE,BLOT,BOBETTE,BOXTEN,BRIGHTNEY,BRUSHA,COAL,COCOA,CONNIE,COSMO,DANDY,DYLE,ECLIPSE,EGGSON,FINN,FLUTTER,FLYTE,GIGI,GINGER,GLISTEN,GOOB,GOURDY,LOOEY,PEBBLE,POPPY,RAZZLE & DAZZLE,RIBECCA,RODGER,RUDIE,SCRAPS,SHELLY,SHRIMPO,SOULVESTER,SPROUT,SQUIRM,TEAGAN,TISHA,TOODLES,VEE,WAXWELL,YATTA
 ASTRO,"Astro: Am I dreaming?
 
 Astro: I wish it wasn't so noisy...
@@ -252,7 +252,7 @@ Astro: Mhm...
 Vee: Or if you need to finish a Machine faster!
 Astro: Alright Vee.
 Vee: OR if a Twisted tries anything!
-Astro: Vee, I get it... Thank you.","Astro: Yatta nice to know you care deeply for your friends...
+Astro: Vee, I get it... Thank you.",,"Astro: Yatta nice to know you care deeply for your friends...
 Yatta: Pft- HAhaha, how could I not! They're SO, SO, SO funny and kind!
 Astro: In your dreams you always present them so highly...
 Yatta: Haha I'm sure YOUR FRIENDS do the same!!
@@ -381,7 +381,7 @@ Vee: I have trivia on nearly every topic Bassie.
 Bassie: Wow, you're... really talented! Really, really, talented!
 Vee: Thanks, that's pretty nice to hear.
 Bassie: I hope I can be as talented as you Vee.
-Vee: ...Sure Bassie, sure.",
+Vee: ...Sure Bassie, sure.",,
 BLOT,"Blot: !elims a no tup ortsA (Astro put on a smile!)
 Astro: Hm? What was that you said...?
 Blot: !elimS (Smile!)
@@ -557,7 +557,7 @@ Vee: Blot you're sure you rather keep performing with the circus crew?
 Blot: .lliw syawlA (Always will.)
 Vee: Well... if you ever change your mind-
 Blot: !em deen syawla lliw attaY dna yeooL t'now I (I won't Looey and Yatta will always need me!)
-Vee: Fine, fine, do what you'd like of course","Blot: ?stnev eht ni derots uoy ydnac eht denaelc uoy evah attaY (Yatta have you cleaned the candy you stored in the vents?)
+Vee: Fine, fine, do what you'd like of course",,"Blot: ?stnev eht ni derots uoy ydnac eht denaelc uoy evah attaY (Yatta have you cleaned the candy you stored in the vents?)
 Yatta: That's my winter storage for the cold months!
 Blot: !YDNAC TNEV EDIH OT DEEN T'NOD UOY ,edisni lla er'ew ,lerriuqs a ton er'uoy attaY (Yatta you're not a squirrel, we're all inside, YOU DON'T NEED TO HIDE VENT CANDY!)
 Yatta: YOU'LL NEVER TAKE MY CANDY STASH NEVEEER!!!"
@@ -668,7 +668,7 @@ Toodles: Uhmmmm….noooo….maybe.","Bobette: Mmm, I could go for some cookies a
 Vee: You could talk with Teagan about that.
 Bobette: Oh yeah! Would you want to join if I asked her?
 Vee: . . .
-Bobette: Oh! Right... You don't really drink or eat...",
+Bobette: Oh! Right... You don't really drink or eat...",,
 BOXTEN,"Astro: Boxten, how have those dreams been treating you...?
 Boxten: You mean the nightmares?
 Astro: No... I believe I remember giving you only good dreams.
@@ -844,7 +844,7 @@ Vee: You're a fan of the gameshow Boxten?
 Boxten: Who isn't? You've got such fun questions, I love trivia!
 Vee: Haha, who doesn't!?
 Boxten: Was that one of your trivia questions??
-Vee: No.",
+Vee: No.",,
 BRIGHTNEY,"Astro: Brightney, your glow is as bright as ever.
 Brightney: And yours is just a feeew lumens less than mine!
 Astro: Lumens, the measurement of light!
@@ -997,7 +997,7 @@ Squirm: I-I know... snf- sniffle-
 Brightney: Aw... don't cry Squirm, the choice is for your own good, we all really care about you.
 Squirm: I-I know....
 
-Brightney: Hey Squirm, you're doing very well
+Brightney: Hey Squirm, you're doing very well!
 Squirm: I-I am...? I thought I was being- s-so- SO AWFUL!!
 Brightney: Aww... No, no, don't think that way! Remember when we're stressed, we...
 Squirm: We take a big breath...?
@@ -1020,7 +1020,7 @@ Vee: Brightney! Lovely to know I have someone truly talented with me!
 Brightney: Wait, like I'm truly talented as opposed to ""un-truly"" talented?
 Vee: Yeah. . .?
 Brightney: Yeah.
-Vee: Yeah alright, good talk.","Brightney: Huh, you're near constantly moving... have you noticed that?
+Vee: Yeah alright, good talk.",,"Brightney: Huh, you're near constantly moving... have you noticed that?
 Yatta: I can't NOT move! It's like, I can't sit still!
 Brightney: Well, do you want to sit still?
 Yatta: NOT REALLY!!
@@ -1131,7 +1131,7 @@ Brusha: It doesn't feel like it.",,"Brusha: Your gameshow is ok.
 Vee: Your art is ok.
 Brusha: Just ok?
 Vee: I've seen better.
-Brusha: Same can be said for your gameshow.",
+Brusha: Same can be said for your gameshow.",,
 COAL,"Coal: Bork, bwoof.
 Astro: ...
 Coal: ...
@@ -1211,7 +1211,7 @@ Coal: …Bork.",,"Toodles: G'awwwww, what a big doggie!
 Coal: Bwoof.
 Toodles: Aww, you want a treat after this?
 Coal: Bork bork.
-Toodles: Ginger was right, you really are a big cute rock!",,"Coal: Bworf, Bworf.
+Toodles: Ginger was right, you really are a big cute rock!",,,"Coal: Bworf, Bworf.
 Yatta: OOOoooo!!! LOOK AT YOU!! What a big cutie-pie!!!
 Coal: Bworf?
 Yatta: I'd LOVE a pet like you! Looey says I really SHOULDN'T have a pet though!"
@@ -1303,7 +1303,7 @@ Cocoa: Hehe! No need to thank me for just being a friend!",,,,,,"Cocoa: Hiya, Ti
 Tisha: Oh, no thank you Cocoa. It's very kind of you to offer though!
 Cocoa: Are you sure? You're usually the only one cleaning, so I thought you'd like some help!
 Tisha: No, I'm fine Cocoa. Thank you though, really!
-Cocoa: Well alright, I guess!",,,
+Cocoa: Well alright, I guess!",,,,
 CONNIE,"Connie: Your chats with Dandy are boring.
 Astro: W-what...?
 Connie: Yeah, I stuck around for one while being invisible...
@@ -1494,7 +1494,7 @@ Connie: Someone sounds a little out of tune!
 Vee: Tch, it was just for a moment.
 Connie: Eh, pretty sure you make that noise a couple times throughout the week!
 Vee: What, are you counting the times???
-Connie: Nah, I just take notice of things! Many things! I'm a good observer.","Connie: Yatta, are you ready for the next floor?
+Connie: Nah, I just take notice of things! Many things! I'm a good observer.",,"Connie: Yatta, are you ready for the next floor?
 Yatta: I'm ALWAYS ready!! Unless I'm not, IN WHICH IT'S NOT ALWAYS!!
 Connie: ...Yeah girl?
 Yatta: YUP! Watch! And leaaaarn!
@@ -1662,7 +1662,7 @@ Vee: You're checking in on me? I mean, I'm fine honestly.
 Cosmo: That's good to know, I was told you haven't been doing the best.
 Vee: What? -Who said that.
 Cosmo: Well, I uh...
-Vee: -Never mind, I know who. Sprout can ask me himself next time.",
+Vee: -Never mind, I know who. Sprout can ask me himself next time.",,
 DANDY,,,,,,,,,,,,"Dandy: Hello, World!
 
 Dandy: Another day, another fun adventure!
@@ -1671,7 +1671,7 @@ Dandy: What fun things will we get into today?
 
 Dandy: Oh boy! I can't wait!
 
-Dandy: My botanical escapades continue!",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dandy: My botanical escapades continue!",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 DYLE,,,,,,,,,,,,,"Dyle: Are we still on time?
 
 Dyle: It is in fact me, Dyle Timesly.
@@ -1680,7 +1680,7 @@ Dyle: Where are we off to now?
 
 Dyle: An elevator just isn't as fun as a train.
 
-Dyle: Ahem... Anywho.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dyle: Ahem... Anywho.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ECLIPSE,"Eclipse: You're a crescent moon, and I have a crescent moon on my head! We match!!
 Astro: Oh... I suppose we do match...that's lovely.
 Eclipse: You're lovely!! We gotta be like BEST FRIENDS!!
@@ -1735,7 +1735,7 @@ Soulvester: Eclipse, do you find yourself nervous? -I see your fur is a bit ruff
 Eclipse: Oh that might just be static in the air! You should see me when I dry off! I'm so fluffy!
 Soulvester: Ah I suppose that would make sense, ignore my trivial comments.
 Eclipse: It's ok!! I know you're just super protective!
-Soulvester: I am protective of all Toon's for that is my duty as knight, that of protector.",,,,,,,
+Soulvester: I am protective of all Toon's for that is my duty as knight, that of protector.",,,,,,,,
 EGGSON,"Eggson: Astro, you are getting proper rest, aren't you?
 Astro: Hm...? Why do you ask?
 Eggson: You seem to be dozing off some! You should really have some proper rest!
@@ -1823,7 +1823,7 @@ Eggson: Ohoho! Is that who I think it is!
 Toodles: Hehehe! Yeah It's me! It's Toodles!
 Eggson: I know! I could never forget you little one!
 Toodles: Are you going to tell a story later??
-Eggson: Hm... Maybe! If you're on your best behavior.",,
+Eggson: Hm... Maybe! If you're on your best behavior.",,,
 FINN,"Finn: Astro! Ever heard of a Sunfish?
 Astro: ...
 Finn: ...Astro?
@@ -1957,7 +1957,7 @@ Finn: Ah, I SEA, why'd you like them then!","Finn: Heya Vee!
 Vee: Five feet apart from me Finn.
 Finn: Why? Is it because I smell fishy?
 Vee: No, because I rather not short-circuit and need repairs.
-Finn: Ah, woopsie! Almost forgot!",
+Finn: Ah, woopsie! Almost forgot!",,
 FLUTTER,"Flutter: ...?
 Astro: So you got the dream I made for you...?
 Flutter: !!!
@@ -2162,7 +2162,7 @@ Vee: Don't start this with me.
 Flutter: !?!?
 Vee: It's not my fault you never won in my game-shows!
 Flutter: !!!
-Vee: No I never knew Scraps would win so many! It's not rigged!",
+Vee: No I never knew Scraps would win so many! It's not rigged!",,
 FLYTE,,"Flyte: Bassie are my wings looking about right-?
 Bassie: Huh- Why do you ask? Are you okay-?!
 Flyte: Yeah I'm alright! Just don't want to stretch them the wrong way or something.
@@ -2261,7 +2261,7 @@ Squirm: R-really...? Oh wow... I-I appreciate you!
 Flyte: There you are, being so kind again!
 Squirm: Haha... yeah...
 Flyte: If you continue to be so kind, I might just have to invite you to scrapbooking time.
-Squirm: Scrapbooking...? Oh nooo... UHM- I-I mean! Y-yea! Sure! Just us-! And books...",,,,,"Flyte: Cocoa told me you like candy?
+Squirm: Scrapbooking...? Oh nooo... UHM- I-I mean! Y-yea! Sure! Just us-! And books...",,,,,,"Flyte: Cocoa told me you like candy?
 Yatta: HUH? WHO? ME!?
 Flyte: Yes you.
 Yatta: Oh! Yeah she'd be right then! I LOOOVE CANDY!!
@@ -2437,7 +2437,7 @@ Vee: Gigi, you're not planning to keep all the items to yourself right?
 Gigi: ...Maybe.
 Vee: Gigi... don't just take everything for yourself.
 Gigi: Ooo... no promises!
-Vee: Gigi!!!",
+Vee: Gigi!!!",,
 GINGER,,,,"Ginger: Bobette, is there something on my face...?
 Bobette: Your makeup?
 Ginger: Huh... well no, I mean... I suppose that counts.
@@ -2517,7 +2517,7 @@ Toodles: ...Mmm, thaaanks.","Ginger: You know... Sometimes I binge your gameshow
 Vee: Huh? Seriously? Just the gameshow segments in the seasons?
 Ginger: Mhm... so much variety, so many outcomes with contestants.
 Vee: Glad to know you Holiday Toons have things to keep you busy all year long.
-Ginger: ...Right.",
+Ginger: ...Right.",,
 GLISTEN,"Astro: Glisten your dreams have been a concern recently...
 Glisten: Huh? OH! HAHA...Let's not talk about that here Astro!
 Astro: But-
@@ -2699,7 +2699,7 @@ Vee: ...What is it now?
 Glisten: Oh you're no fun.
 Vee: Well? Go on.
 Glisten: Tch- Ugh... I broke my microphone. I need a spare.
-Vee: Just meet me after this.",
+Vee: Just meet me after this.",,
 GOOB,"Astro: Goob I noticed you've had dreams of chasing your own tail...?
 Goob: Yup!
 Astro: But, you don't have one...?
@@ -2853,7 +2853,7 @@ Goob: I just wanted to cheer on my big sister!
 Vee: Yeah but, wouldn't you want to prove you're smarter than her lucky guesses?
 Goob: I don't need to prove that sort of thing to anyone!
 Vee: ...Hm, well, If that's what you've decided, can't say I agree.
-Goob: I hope you'll be able to understand someday then!","Goob: YATTA!
+Goob: I hope you'll be able to understand someday then!",,"Goob: YATTA!
 Yatta: GOOB!
 Goob: How are you??
 Yatta: I'M GOOD!!! How are you???
@@ -2940,7 +2940,7 @@ Toodles: Shhh!! I'm still super brave! ...Usually
 Gourdy: Hehehe ok! Ok!","Gourdy: Vee!! Vee- I have another thing i was hoping you could sign!
 Vee: Another autographed item...? Well I can't say no to a fan.
 Gourdy: YES,YEAH, WOO! -I mean, ahem... Thank you.
-Vee: Right...",
+Vee: Right...",,
 LOOEY,"Looey: Astro, turn that frown upsidedown!
 Astro: It's okay Looey I'm feeling fine honestly...
 Looey: Aw but you always look so sad!
@@ -3076,12 +3076,12 @@ Sprout: Maybe I should start keeping a list of every Toon's favorite flavor of c
 Looey: Gee Sprout, that's a pretty kind thought, how many flavors are there?
 Sprout: Well there's milk chocolate, vanilla, dark chocolate, lemon, white chocolate, red velvet-
 Looey: Strawberry?
-Sprout: Oh! Yeah, I was going to get to that one haha!","Squirm: I-I'm so nervous... what if the elevator just decided to fall!! THEN WHAT
+Sprout: Oh! Yeah, I was going to get to that one haha!","Squirm: I-I'm so nervous... what if the elevator just decided to fall!! THEN WHAT!?
 Looey: . . .
 Squirm: WHAT IF!?- Oh no, oh no, ooooh NO-!!
 Looey: Squirm... I think you're overthinking things- just a bit!
 Squirm: B-But...
-Looey: Don't continue- You ever hear a clown panic? ...It's NOT as funny as you'd think","Looey: Hey Teagan, I think your tea parties could use some entertainment!
+Looey: Don't continue- You ever hear a clown panic? ...It's NOT as funny as you'd think.","Looey: Hey Teagan, I think your tea parties could use some entertainment!
 Teagan: I believe my tea parties are entertaining enough Looey, but thank you for the offer.
 Looey: But there aren't any clowns! Or acrobats! Or mimes!
 Teagan: My tea parties don't need a circus troupe to be entertaining.
@@ -3100,7 +3100,7 @@ Looey: Yup! You wanna come see one?
 Vee: No.
 Looey: Ahaha... ah.
 Vee: I'm a bit too busy... maybe another time.
-Looey: Oh, right, of course!","Looey: Oooh Yatta, you're doing so much better then me!
+Looey: Oh, right, of course!",,"Looey: Oooh Yatta, you're doing so much better then me!
 Yatta: Looey, stop, you're doing PERFECT!!!
 Looey: Haha, Nooo, no, you're much better then me-
 Yatta: TAKE, THE, COMPLIMENT!!!
@@ -3291,7 +3291,7 @@ Vee: Pebble.
 Pebble: Bwoof!
 Vee: No, really?
 Pebble: Arf!
-Vee: Tell me about that later, that's actually so interesting.","Yatta: Hey Pebble, do YOU want some CANDY?
+Vee: Tell me about that later, that's actually so interesting.",,"Yatta: Hey Pebble, do YOU want some CANDY?
 Pebble: ARF! ARF!!
 Yatta: WAIT, didn't Dandy say you can't have ANY candy?
 Pebble: Grrr...
@@ -3419,7 +3419,7 @@ Poppy: Yippee! What do I win?
 Vee: A brand new car!
 Poppy: Oh my goodness! Really!?!
 Vee: No, Poppy, does it look like we can have a car here?
-Poppy: Oh yeah! I don't even know how to drive!",
+Poppy: Oh yeah! I don't even know how to drive!",,
 RAZZLE & DAZZLE,"Razzle & Dazzle: Astro! (Astro... nice to have you here.)
 Astro: Of course, nice having you twos' company...
 Razzle & Dazzle: Hehe Thanks! (We should spend time after we all finish here...)
@@ -3569,7 +3569,7 @@ Razzle & Dazzle: FOR SURE!! YES MA'AM!! (...We'll visit a reasonable amount.)
 Razzle & Dazzle: VEE!! HELLO! (...Hey Vee.)
 Vee: Hello, how are you both doing?
 Razzle & Dazzle: AMAZING!! Right Dazzle!? (...Yeah, he's a fan.)
-Vee: I can tell.",
+Vee: I can tell.",,
 RIBECCA,,,,,,,,,,"Ribecca: Boolynski!! Girl it is great seeing you!!
 Connie: It's Connie still, but Ayyy! Your outfit is great as always.
 Ribecca: Aw thank you! You know me, making just the best outfits and costumes.
@@ -3620,7 +3620,7 @@ Soulvester: Well I'd consider simply proof of my many expeditions in Gardenview.
 Ribecca: You know I could always help fix that armor up for you pal.
 Soulvester: Hark Ribecca, for I have no need...I am most comfortable within the suit of armor.
 Ribecca: It'd only be for a moment Soulvester.
-Soulvester: I refuse.",,,,,,,
+Soulvester: I refuse.",,,,,,,,
 RODGER,"Rodger: Astro! Would you mind answering some of my questions?
 Astro: Yes? Yes I would mind.
 Rodger: How about later? I could ask you after this!
@@ -3789,7 +3789,7 @@ Rodger: That's dependent on what you plan to ask of me!
 Vee: Stop trying to ask Astro questions.
 Rodger: ...
 Vee: Will you?
-Rodger: I... can't promise such.",
+Rodger: I... can't promise such.",,
 RUDIE,"Rudie: ...
 Astro: Looking for a good dream...?
 Rudie: A little!
@@ -3864,7 +3864,7 @@ Rudie: YUP! HAPPY HOLIDAYS!!",,,,,,,,"Rudie: Are you on the nice list?
 Toodles: Probably!! What about you?
 Rudie: Oh for sure!
 Toodles: Yay!! We're both nice!
-Rudie: That we are! Yay! Hooray! All is perfect! Ahaha!",,
+Rudie: That we are! Yay! Hooray! All is perfect! Ahaha!",,,
 SCRAPS,"Astro: Scraps I've noticed you drawing less...
 Scraps: You have???
 Astro: Yes, are you doing alright?
@@ -4013,7 +4013,7 @@ Scraps: Hey Vee... You're not still mad at me for winning all your game show pri
 Vee: ...
 Scraps: Vee..?
 Vee: ...
-Scraps: I'll take that as a yes.",
+Scraps: I'll take that as a yes.",,
 SHELLY,"Astro: ...Are you alright?
 Shelly: Huh?? OH! You're asking me?
 Astro: Uhm... yes you, Shelly.
@@ -4172,7 +4172,7 @@ Shelly: Huh...? OH! You're asking me!!
 Vee: ...Yes, I'm talking to you.
 Shelly: Nope! Not busy at all! What do you need?
 Vee: Just help moving around supplies.
-Shelly: Oh... uhm, right... of course.","Yatta: SHELLY!
+Shelly: Oh... uhm, right... of course.",,"Yatta: SHELLY!
 Shelly: W-what??? Huh? -Me?
 Yatta: Yes YOU! Tisha said you learned sewing?
 Shelly: Yeah... YEAH! Are you interested!?
@@ -4337,7 +4337,7 @@ Toodles: EEK-","Shrimpo: VEE!
 Vee: . . .
 Shrimpo: I HATE TELEVISION!
 Vee: You done?
-Shrimpo: I HATE NOT HAVING THE LAST WORD!",
+Shrimpo: I HATE NOT HAVING THE LAST WORD!",,
 SOULVESTER,,,,,,,,,,"Soulvester: Sister, even though we are apart most of the year, I must say- I wish it was longer.
 Connie: Yuuup, same can be said here bro. You're way too serious all the time!
 Soulvester: -And you are never serious enough. Though I will always be here as your protector.
@@ -4390,7 +4390,7 @@ Soulvester: Hark Ribecca, for I have no need...I am most comfortable within the 
 Ribecca: It'd only be for a moment Soulvester.
 Soulvester: I refuse.",,,,,,"Soulvester: I am confident this next floor will end in victory.
 
-Soulvester: Nothing will stop me for this venture.",,,,,,,
+Soulvester: Nothing will stop me for this venture.",,,,,,,,
 SPROUT,"Sprout: Astro?
 Astro: ...
 Sprout: Ahem- Astro!
@@ -4529,8 +4529,8 @@ Sprout: Yeah?
 Pebble: ...Bwoarf.
 Sprout: ...Alright.","Poppy: SPROUT!!
 Sprout: Poppy??? -Are you okay?
-Poppy: No! The big question is… Are you okay!
-Sprout: Phew, yeah… Don't scare me like that though.
+Poppy: Yep! The big question is... are you okay!
+Sprout: Phew, yeah... Don't scare me like that though.
 Poppy: I'm sorry, it WILL happen again! Hehe!","Sprout: Razzle, Dazzle, need anything?
 Razzle & Dazzle: Not really? (...Why do you ask?)
 Sprout: Well, I just know you both get along with Astro...
@@ -4608,7 +4608,7 @@ Vee: I try to, but he just walks away when I approach most the time.
 Sprout: Yeah that sounds about right, he does the same to me.
 Vee: Yeah but he'll talk with-
 Sprout: Vee. I know.
-Vee: Whatever, we'll chat more on it later if you want.","Sprout: Yatta... you really have to calm down with how much candy you eat.
+Vee: Whatever, we'll chat more on it later if you want.",,"Sprout: Yatta... you really have to calm down with how much candy you eat.
 Yatta: WHY!?
 Sprout: It's a bit concerning honestly.
 Yatta: WHAT? ME?? CONCERNING???
@@ -4645,7 +4645,7 @@ Squirm: I-I know... snf- sniffle-
 Brightney: Aw... don't cry Squirm, the choice is for your own good, we all really care about you.
 Squirm: I-I know....
 
-Brightney: Hey Squirm, you're doing very well
+Brightney: Hey Squirm, you're doing very well!
 Squirm: I-I am...? I thought I was being- s-so- SO AWFUL!!
 Brightney: Aww... No, no, don't think that way! Remember when we're stressed, we...
 Squirm: We take a big breath...?
@@ -4701,12 +4701,12 @@ Glisten: See! Now try being a bit more like me this next floor, perfect!","Squir
 Goob: Awww, someone sounds like they need a big hug!
 Squirm: Y-yes please-
 Goob: Don't you worry! My big sister says I give the best hugs! So you're in luck!!
-Squirm: M-me...? lucky...? ...Hehe... I feel better already.",,"Squirm: I-I'm so nervous... what if the elevator just decided to fall!! THEN WHAT
+Squirm: M-me...? lucky...? ...Hehe... I feel better already.",,"Squirm: I-I'm so nervous... what if the elevator just decided to fall!! THEN WHAT!?
 Looey: . . .
 Squirm: WHAT IF!?- Oh no, oh no, ooooh NO-!!
 Looey: Squirm... I think you're overthinking things- just a bit!
 Squirm: B-But...
-Looey: Don't continue- You ever hear a clown panic? ...It's NOT as funny as you'd think","Squirm: I thought about having a pet of my own once... I-I read on it some.
+Looey: Don't continue- You ever hear a clown panic? ...It's NOT as funny as you'd think.","Squirm: I thought about having a pet of my own once... I-I read on it some.
 Pebble: Bark? Bark!
 Squirm: I-I couldn't finish reading the book though, snf- sniffle- on account of- of-
 Pebble: Bark! Arf!
@@ -4775,7 +4775,7 @@ Vee: Why do you ask?
 Squirm: I was told to check in on you... S-something about your batteries? Or was it the microphone?
 Vee: Well I'm doing great. Better than ever. I'm actually at my most optimal right now!
 Squirm: Oh... really? I-I didn't know...
-Vee: Yup, you had no idea. I'm at the best point I could ever perform at, no need to question that.",
+Vee: Yup, you had no idea. I'm at the best point I could ever perform at, no need to question that.",,
 TEAGAN,"Teagan: Astro, are you still talking with... Him?
 Astro: Yes... well, sometimes... not as often...
 Teagan: Goodness Astro, you need to make up your mind!
@@ -4906,7 +4906,7 @@ Vee: Teagan.
 Teagan: Vee?
 Vee: I’m trying to start conversation, but honestly, I don’t care about tea.
 Teagan: I could assume why… Does that mean you dislike me?
-Vee: No, of course not, you’re a whole toon, not some regular teacup.",
+Vee: No, of course not, you’re a whole toon, not some regular teacup.",,
 TISHA,"Tisha: I've been so busy! I almost need an extra set of arms to help me out!
 Astro: ...
 Tisha: Oh? Is there something wrong Astro?
@@ -5070,7 +5070,7 @@ Tisha: I have my reasons Vee.
 Vee: Wow, so descriptive.
 Tisha: I just think, you don't appreciate certain things here in Gardenview!
 Vee: Still not very descriptive!
-Tisha: UGH! Forget it-!","Tisha: Yatta, please... pick up after yourself with the candy!
+Tisha: UGH! Forget it-!",,"Tisha: Yatta, please... pick up after yourself with the candy!
 Yatta: I CAN'T CARRY IT ALL!! Trust me, I would if I COULD!!!
 Tisha: Yatta, PLEASE.
 Yatta: I DON'T KNOW WHAT TO TELL YOU!!!"
@@ -5232,7 +5232,7 @@ Vee: . . .
 Toodles: Vee? Can you swim?
 Vee: What is Rodger even teaching you.
 Toodles: Well... can you???
-Vee: No Toodles, I cannot swim.",
+Vee: No Toodles, I cannot swim.",,
 VEE,"Vee: Hey Astro, If anyone gives you issues, come to me alright?
 Astro: Mhm...
 Vee: Or if you need to have a Machine done faster!
@@ -5474,12 +5474,13 @@ Vee: I'm gonna need a new motherboard after that.
 
 Vee: Question 1: Is this a waste of my time? Probably.
 
-Vee: This would be the perfect time for a commercial!","Vee: Hey Piñata, still creeping around the place?
+Vee: This would be the perfect time for a commercial!",,"Vee: Hey Piñata, still creeping around the place?
 Yatta: HAHA-!!! It's Yatta.
 Vee: Right, right... doesn't answer the question.
 Yatta: It's NOT creeping! You're jealous I can be so FLEXIBLE in my movement!
 Vee: ...So you're still sneaking in the vents in your free time?
 Yatta: That's just how I get around!! I'm busy with ACROBATICS, MY TROUPE, and... PARTIES!!!"
+WAXWELL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 YATTA,"Astro: Yatta nice to know you care deeply for your friends...
 Yatta: Pft- HAhaha, how could I not! They're SO, SO, SO funny and kind!
 Astro: In your dreams you always present them so highly...
@@ -5659,7 +5660,7 @@ Yatta: AW- from where little buddy???
 Toodles: Uhm... uh... like the walls?
 Yatta: OH!! THAT MAY BE ME!! I am NOT to be feared!
 Toodles: Huh? Why are you in the walls? I wanna explore the walls!
-Yatta: I'll take you on my NEXT, UPCOMING, VENT SYSTEM EXPEDITION!",,"Yatta: PHEW! Good thing my tail hasn't been TANGLED!
+Yatta: I'll take you on my NEXT, UPCOMING, VENT SYSTEM EXPEDITION!",,,"Yatta: PHEW! Good thing my tail hasn't been TANGLED!
 
 Yatta: Did I drop candy ANYWHERE in the elevator?
 
