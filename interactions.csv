@@ -1,4 +1,4 @@
-name,ASTRO,BASSIE,BLOT,BOBETTE,BOXTEN,BRIGHTNEY,BRUSHA,COAL,COCOA,CONNIE,COSMO,DANDY,DYLE,ECLIPSE,EGGSON,FINN,FLUTTER,FLYTE,GIGI,GINGER,GLISTEN,GOOB,GOURDY,LOOEY,PEBBLE,POPPY,RAZZLE & DAZZLE,RIBECCA,RODGER,RUDIE,SCRAPS,SHELLY,SHRIMPO,SOULVESTER,SPROUT,SQUIRM,TEAGAN,TISHA,TOODLES,VEE,WAXWELL,YATTA
+name,ASTRO,BASSIE,BLOT,BOBETTE,BOXTEN,BRIGHTNEY,BRUSHA,COAL,COCOA,CONNIE,COSMO,DANDY,DESSA,DIODA,DYLE,ECLIPSE,EGGSON,FINN,FLUTTER,FLYTE,GIGI,GINGER,GLISTEN,GOOB,GOURDY,LOOEY,PEBBLE,POPPY,RAZZLE & DAZZLE,RIBECCA,RODGER,RUDIE,SCRAPS,SHELLY,SHRIMPO,SOULVESTER,SPROUT,SQUIRM,TEAGAN,TISHA,TOODLES,VEE,WAXWELL,YATTA
 ASTRO,"Astro: Am I dreaming?
 
 Astro: I wish it wasn't so noisy...
@@ -86,7 +86,7 @@ Astro: You've been having some interesting dreams Cosmo.
 Cosmo: Which one? The one with fire, or the one with flowers?
 Astro: Well the flowers were- wait, fire?
 Cosmo: ...Nevermind! Nevermind! Lets talk later on that! haha...
-Astro: ...",,,"Eclipse: You're a crescent moon, and I have a crescent moon on my head! We match!!
+Astro: ...",,,,,"Eclipse: You're a crescent moon, and I have a crescent moon on my head! We match!!
 Astro: Oh... I suppose we do match...that's lovely.
 Eclipse: You're lovely!! We gotta be like BEST FRIENDS!!
 Astro: I uhm- I'm not sure about that... but I'd consider you a nice friend, just not my closest- or best...
@@ -391,7 +391,7 @@ Connie: I mean yeah, I can go invisible, but that doesn't mean I just disappear.
 Bassie: Ah right...
 Connie: Right...? Is that all you wanted to ask?
 Bassie: I guess, yeah, sorry to waste any time-!
-Connie: It's all good, don't stress about whatever is on your mind girl.",,,,"Eclipse: Woah! You smell sooo good!
+Connie: It's all good, don't stress about whatever is on your mind girl.",,,,,,"Eclipse: Woah! You smell sooo good!
 Bassie: O-oh um thank you... but m-maybe back up a little, please?
 Eclipse: Oh sorry! I got a bit carried away.
 Bassie: It's ok just... make sure you're respecting Toons' personal space!","Bassie: Eggson I could use some advice later...
@@ -526,7 +526,7 @@ Cosmo: Blot did you still want that order of uhm... three cakes?
 Blot: .seY (Yes.)
 Cosmo: Ok... why?
 Blot: .attaY (Yatta.)
-Cosmo: Ooooh, I think I get it now, alright!",,,"Eclipse: Hmmm someone keeps leaving behind footprints!
+Cosmo: Ooooh, I think I get it now, alright!",,,,,"Eclipse: Hmmm someone keeps leaving behind footprints!
 Blot: .em s'tI (It's me.)
 Eclipse: I wonder who these will lead to!
 Blot: .em ot dael ll'yehT .eM (Me. They'll lead to me.)",,"Finn: Hey Blot! Since you’re ink I thought you’d love to hear an octopus pun!
@@ -697,7 +697,7 @@ Connie: EH... not exactly? I'll be real with you Bobette- You're very Christmas-
 Bobette: Yeah...? That is sort of my thing!
 Connie: Yeah, yeah- but I feel like Christmas happens way too soon after Halloween.
 Bobette: What! Oh come on, I'm sure you're just overreacting a little!
-Connie: Naaah girl... I swear, the Christmas decorations start way too early! Halloween should last so much longer!",,,,"Bobette: I couldn't help but notice that beautiful gemstone that you have sometimes.
+Connie: Naaah girl... I swear, the Christmas decorations start way too early! Halloween should last so much longer!",,,,,,"Bobette: I couldn't help but notice that beautiful gemstone that you have sometimes.
 Eclipse: Oh my Moon Pack Heirloom, yeah!
 Bobette: It would look so beautiful hanging on a Christmas tree as an ornament, don't you agree?
 Eclipse: Christmas has its own trees???
@@ -824,7 +824,7 @@ Cosmo: I think you do great, try not to stress about it..!
 Boxten: Pft- I just remembered the time I mistook salt for sugar.
 Cosmo: Haha yeah, I have to check every time I'm in the kitchen with you now!
 Boxten: Well we're thankful to have someone as caring as you...!
-Cosmo: Aw, thanks Boxten! That's kind of you to say!",,,"Eclipse: Ok so like, what's inside?
+Cosmo: Aw, thanks Boxten! That's kind of you to say!",,,,,"Eclipse: Ok so like, what's inside?
 Boxten: What? What are you talking about Eclipse?
 Eclipse: I want to know inside your head!
 Boxten: Um...Thoughts?
@@ -1014,7 +1014,7 @@ Connie: Hey.
 Brightney: Haha, Hi Connie.","Brightney: Cosmo! How is that cookbook I gave you?
 Cosmo: It's great, Brightney! Sprout and I are learning a lot of recipes from the book!
 Brightney: I'm glad to hear that! I didn't know Sprout enjoyed the cookbook as well.
-Cosmo: Yeah, we sit together and read it when we get the chance to!",,,"Eclipse: Woah... your light is so bright! YOU'RE SO BRIGHT!!!
+Cosmo: Yeah, we sit together and read it when we get the chance to!",,,,,"Eclipse: Woah... your light is so bright! YOU'RE SO BRIGHT!!!
 Brightney: Ah, uhm... thank you!
 Eclipse: I LOVE bright lights! How do I glow as bright as you in the night?
 Brightney: Hmm, I could show you what type of lightbulbs I use!
@@ -1200,7 +1200,7 @@ Connie: This is why no one invites you to parties.","Cosmo: Brusha, have you eve
 Brusha: No, why would I ever use such a thing?
 Cosmo: There is an art to decorating desserts! My cousin loves to decorate desserts.
 Brusha: Would you consider your cousin an artist?
-Cosmo: Of course I do!",,,"Brusha: Eclipse, have you ever noticed strange things moving in the dark during blackouts?
+Cosmo: Of course I do!",,,,,"Brusha: Eclipse, have you ever noticed strange things moving in the dark during blackouts?
 Eclipse: I guess? That's normally when I go for my hunts though!
 Brusha: Do you ever... see anyone in the dark?
 Eclipse: Uhm no? Now that you mention it though, sometimes I smell strange things.
@@ -1358,7 +1358,7 @@ Cocoa: You know what, I'll give you all the treats I can find after this! Will t
 Coal: Bwoof!","Coal: Bwoof, bork.
 Connie: Yeesh... you are one big rock.
 Coal: Bworf.
-Connie: Yikes, what is Bobette feeding you???",,,,,,,,,,"Ginger: Coal... have you been helping well with the presents?
+Connie: Yikes, what is Bobette feeding you???",,,,,,,,,,,,"Ginger: Coal... have you been helping well with the presents?
 Coal: Bworf.
 Ginger: Mhm...
 Coal: Bork.
@@ -1455,7 +1455,7 @@ Cosmo: I've never made bonbons before, Cocoa. What if I mess them up?
 Cocoa: I'm sure you'll do great! Your cooking is always amazing!
 Cosmo: That's really sweet of you, Cocoa! Tell you what: I'll try to make some after this.
 Cocoa: Really?! Thank you so much, Cosmo!!
-Cosmo: Anytime...!",,,,"Eggson: Cocoa, you always seem to be helping one person after another.
+Cosmo: Anytime...!",,,,,,"Eggson: Cocoa, you always seem to be helping one person after another.
 Cocoa: I guess I am, yeah. I kinda lose track of time when helping others, haha...
 Eggson: When was the last time you took a break, young lady?
 Cocoa: Uhmmmm...
@@ -1557,7 +1557,7 @@ Connie: Thinking about what to haunt after this.
 Connie: Uuugh, another floor.","Cosmo: Connie, do you think you could help me and Sprout bake later?
 Connie: Why me-?
 Cosmo: Well, you know...
-Connie: Ah right, I can reach the high shelves.",,,"Eclipse: Hi Boolynski!! Hiii!!!
+Connie: Ah right, I can reach the high shelves.",,,,,"Eclipse: Hi Boolynski!! Hiii!!!
 Connie: Ay Eclipse- It's Connie.
 Eclipse: Oh, right, right! Oopsie, sorry!
 Connie: It's fine, how are you holding the crew together? My little replacement.
@@ -1774,7 +1774,7 @@ Connie: Ah right, I can reach the high shelves.","Cosmo: Do I... smell a burning
 
 Cosmo: I wish I was baking right now!
 
-Cosmo: I'll admit... I'm a bit nervous.",,,"Eclipse: COSMO bake me something!
+Cosmo: I'll admit... I'm a bit nervous.",,,,,"Eclipse: COSMO bake me something!
 Cosmo: Ok! What do you want me to bake?
 Eclipse: Hmm. What about a croissant?
 Cosmo: Because it's shaped like-
@@ -1906,8 +1906,10 @@ Dandy: What fun things will we get into today?
 
 Dandy: Oh boy! I can't wait!
 
-Dandy: My botanical escapades continue!",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DYLE,,,,,,,,,,,,,"Dyle: Are we still on time?
+Dandy: My botanical escapades continue!",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DESSA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DIODA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DYLE,,,,,,,,,,,,,,,"Dyle: Are we still on time?
 
 Dyle: It is in fact me, Dyle Timesly.
 
@@ -1959,7 +1961,7 @@ Connie: Together we bring double the trouble!","Eclipse: COSMO bake me something
 Cosmo: Ok! What do you want me to bake?
 Eclipse: Hmm. What about a croissant?
 Cosmo: Because it's shaped like-
-Eclipse: Because it's shaped like a CRESCENT MOON!",,,"Eclipse: AWOOO!!
+Eclipse: Because it's shaped like a CRESCENT MOON!",,,,,"Eclipse: AWOOO!!
 
 Eclipse: I've got a scent I'm tracking...",,"Eclipse: Finn, is there a fish like me?
 Finn: There sure is! The Atlantic wolffish!
@@ -2093,7 +2095,7 @@ Cocoa: Sure, I'll help you if you'd like!
 Eggson: Hmm... A hundred and one now.",,"Eggson: Cosmo, could I perhaps-
 Cosmo: For the last time Eggson, you cannot take the eggs out of the fridge and hide them for me to find.
 Eggson: Drats Cosmo! Can't you understand my vision!
-Cosmo: It's not happening.",,,,"Eggson: Eggs.
+Cosmo: It's not happening.",,,,,,"Eggson: Eggs.
 
 Eggson: I wonder if Dandy hid an egg in here...
 
@@ -2183,7 +2185,7 @@ Finn: Nope! But if I do trust me I know a... sturgeon!
 Cosmo: ... I don't get it?
 Finn: Like the fish! and surgeon!
 Cosmo: ...
-Finn: STURGEON! Haha!",,,"Eclipse: Finn, is there a fish like me?
+Finn: STURGEON! Haha!",,,,,"Eclipse: Finn, is there a fish like me?
 Finn: There sure is! The Atlantic wolffish!
 Eclipse: Oooh a WOLF FISH??
 Finn: Yeah! Well, some have called it an Atlantic catfish too.
@@ -2363,7 +2365,7 @@ Cosmo: What...? No, I don't think so.
 Flutter: ...?
 Cosmo: No, we definitely didn't leave any machine incomplete last floor.
 Flutter: . . . ?
-Cosmo: What does this have to do with the size of my head???",,,"Eclipse: Flutter! Next time I'm hunting, fly up as high as you can and tell me where the prey is!
+Cosmo: What does this have to do with the size of my head???",,,,,"Eclipse: Flutter! Next time I'm hunting, fly up as high as you can and tell me where the prey is!
 Flutter: ...?
 Eclipse: Because it would help me! You'd be my super cool eyes in the sky.
 Flutter: ...","Flutter: ...!!!
@@ -2533,7 +2535,7 @@ Flyte: Umm, I don't think even you can help this situation be any better...",,"C
 Flyte: You and Sprout don't have them...? I thought you had copies of those cards.
 Cosmo: Well for some of them we do- but- not all of them...
 Flyte: Well I'll be honest, I did use some for thematic scrapbooking... So sorry.
-Cosmo: Darn, well at least they were used somewhere.",,,,"Flyte: Eggson anything on your mind?
+Cosmo: Darn, well at least they were used somewhere.",,,,,,"Flyte: Eggson anything on your mind?
 Eggson: Hmmm... Eggs.
 Flyte: Anything uhm, other than eggs?
 Eggson: Our place within the structure of this somewhat Toon formed community, and by that the social structure of such-
@@ -2659,7 +2661,7 @@ Gigi: But think of all the dust I could reach!","Gigi: Pst, Cosmo... It says gul
 Cosmo: Really! Where?
 Gigi: Mwehehe...
 Cosmo: ...Oh wait- No... I fell for it.
-Gigi: Gigi wins!",,,"Eclipse: Gigi I looove the star on your sweater!
+Gigi: Gigi wins!",,,,,"Eclipse: Gigi I looove the star on your sweater!
 Gigi: Thanks, I'm getting a vibe that you like the moon and stars and stuff?
 Eclipse: Sure do! I just wish your sweater star was super bright like a real star!
 Gigi: It'd be hard for me to sneak around if I was THAT bright! I mean, look at Brightney.","Eggson: I wonder if there's any eggs hidden anywhere...
@@ -2889,7 +2891,7 @@ Ginger: Easy girl... I'll give you a treat later...",,,"Ginger: Cousin Cosmo! So
 Cosmo: Hey Ginger, I am happy to have you around...!
 Ginger: Yeah... don't get to see you too often haha...
 Cosmo: Right, I understand why though, being a Holiday Toon and such.
-Ginger: Mhm...! But if you need anything, let me know... truly!",,,,,,,"Flyte: So you're from the winter season...?
+Ginger: Mhm...! But if you need anything, let me know... truly!",,,,,,,,,"Flyte: So you're from the winter season...?
 Ginger: Yeah... Uhm- I heard you had a sister?
 Flyte: Yeah- She isn't really-
 Ginger: A Holiday Toon-? I understand the feeling.
@@ -2997,7 +2999,7 @@ Glisten: That will do it.","Glisten: Cosmo those stars on your cheeks are such a
 Cosmo: Glisten, those aren't makeup, Ive always had these.
 Glisten: Seriously?
 Cosmo: Yeah, they're on all my art around Gardenview!
-Glisten: I knew that! How could I not know that! Haha...",,,"Eclipse: Hmm that’s strange.
+Glisten: I knew that! How could I not know that! Haha...",,,,,"Eclipse: Hmm that’s strange.
 Glisten: Everything ok, Eclipse?
 Eclipse: Yeah, but l can see my reflection in you. That's sooo strange...
 Glisten: Why would you not be able to see your own reflection?
@@ -3193,7 +3195,7 @@ Goob: Nope! Not too busy! Something on your mind buddy?
 Cosmo: Well I was hoping you could taste test some cookies later!
 Goob: I can taste test ALL the cookies!
 Cosmo: Oh, you seem excited..?
-Goob: You say taste, and cookie, and my name, and I get excited!",,,"Goob: Eclipse! Do you want a hug?
+Goob: You say taste, and cookie, and my name, and I get excited!",,,,,"Goob: Eclipse! Do you want a hug?
 Eclipse: YES! Do you want to howl at the moon with me later?
 Goob: YES!! But uhm... Can we include Scraps?
 Eclipse: ...Can we?
@@ -3357,7 +3359,7 @@ Connie: Yeah-huh, lil' guy? There is an effort, I mean for sure I am seeing your
 Gourdy: I meaaan, at least I am trying! Right?
 Connie: True, unlike a certain FAKE ""knight""...
 Gourdy: Aw cmon Connie, Soulvester is awesome!
-Connie: Trust me Gourdy, you're way more awesome than he is, haha-",,,,"Gourdy: Eclipse, what would you pick, a trick!!... or a yummy treat?
+Connie: Trust me Gourdy, you're way more awesome than he is, haha-",,,,,,"Gourdy: Eclipse, what would you pick, a trick!!... or a yummy treat?
 Eclipse: Obviously a yummy, yummy treat!! Who would pick a trick??
 Gourdy: I would!!! No one ever gives trick a chance, they don't have people saying ""treat or treat"" ever!
 Eclipse: I guess you're right, it is ""trick or treat"" NOT ""treat or treat""...
@@ -3524,7 +3526,7 @@ Looey: Sure can! Ever seen me juggle?
 Cosmo: Can't say I have yet!
 Looey: ...
 Cosmo: ...Well are you going to?
-Looey: Oh! Look at the time! The elevator is opening! Gosh, we should prepare!",,,"Eclipse: Woah! Are you like a bunny balloon? Or a dog balloon???
+Looey: Oh! Look at the time! The elevator is opening! Gosh, we should prepare!",,,,,"Eclipse: Woah! Are you like a bunny balloon? Or a dog balloon???
 Looey: Huh? Oh! I'm actually neither haha just kinda my own thing, just a balloon!
 Eclipse: Awww, I was hoping you'd say dog! I need friends to howl at the moon with.
 Looey: You howl at Astro…?
@@ -3727,7 +3729,7 @@ Pebble: ...Bworf.","Cosmo: Sprout said to stop giving you pet treats.
 Pebble: Bwork?
 Cosmo: ...Yeah, sorry buddy. Apparently one everyday isn't good for you.
 Pebble: Grrr… BARK!
-Cosmo: Hey, hey! Be a nice rock.",,,"Pebble: Bark bark bark!!
+Cosmo: Hey, hey! Be a nice rock.",,,,,"Pebble: Bark bark bark!!
 Eclipse: Bworf? BARK BARK!
 Pebble: Woof! Woof!
 Eclipse: Arf Arf!!! Awooo!
@@ -3917,7 +3919,7 @@ Cosmo: Oh sure! What kind of toppings should we put on the cookies?
 Poppy: Hmm…Maybe we could use gumballs for the eyes, and-
 Cosmo: Never again.
 Poppy: Are you sure? I’m sure they’d look great!
-Cosmo: Never. Again.",,,,,"Finn: Hey Poppy, I like your positive attitude that you always have!
+Cosmo: Never. Again.",,,,,,,"Finn: Hey Poppy, I like your positive attitude that you always have!
 Poppy: Oh, thank you Finn! I try my best!
 Finn: Yeah, you go GILL!
 Poppy: YEAH!!","Flutter: ...?
@@ -4063,7 +4065,7 @@ Connie: Meh, I don't abide by the rules!","Cosmo: Do you both want to help in th
 Razzle & Dazzle: Depends, got a sweet treat? (...We'd help you even without the dessert.)
 Cosmo: I'm sure I can find the time to get you both something!
 Razzle & Dazzle: YES!!! (...Oh, thank you Cosmo.)
-Cosmo: Of course!",,,,"Eggson: Well hey there, Razzle and Dazzle! Have you two read any good books lately?
+Cosmo: Of course!",,,,,,"Eggson: Well hey there, Razzle and Dazzle! Have you two read any good books lately?
 Razzle & Dazzle: Hi there, Eggson! (We've read quite a few books recently...)
 Eggson: Ohoho! Would you like to trade stories sometime? I'd love to hear what you've read!
 Razzle & Dazzle: Sure thing! (Just let us know when...)","Razzle & Dazzle: Finn! You have to share some of your jokes with us later! (Or maybe don't...)
@@ -4206,7 +4208,7 @@ Connie: It's Connie still, but Ayyy! Your outfit is great as always.
 Ribecca: Aw thank you! You know me, making just the best outfits and costumes.
 Connie: You planning on making me any?
 Ribecca: If you'd want some you know I'd be happy to throw a few things together while I feel creative.
-Connie: I look forward to seeing what you make! Better be suuuper cool.",,,,"Ribecca: Girl... Eclipse, sometimes you stare at me just like Pebble... Knock that off.
+Connie: I look forward to seeing what you make! Better be suuuper cool.",,,,,,"Ribecca: Girl... Eclipse, sometimes you stare at me just like Pebble... Knock that off.
 Eclipse: ...
 Ribecca: Ay! Eclipse!
 Eclipse: -Huh? Oh! Sorry Ribecca!! Was I staring??
@@ -4342,7 +4344,7 @@ Cosmo: Nope.
 Rodger: Oh Cosmo, there is so much to be answered though and-
 Cosmo: Are the questions about Sprout?
 Rodger: Well...
-Cosmo: In that case, nope!",,,"Rodger: I must admit Eclipse, I believe you could be a big help in my investigations.
+Cosmo: In that case, nope!",,,,,"Rodger: I must admit Eclipse, I believe you could be a big help in my investigations.
 Eclipse: Huh? How so, Rodger?
 Rodger: You see, one with such keen senses like yours would be greatly beneficial in my efforts.
 Eclipse: Oh you want me to like...sniff for clues?
@@ -4526,7 +4528,7 @@ Rudie: Merry Christmas Coal!
 Coal: ...
 Rudie: ...I said, MERRY CHRISTMAS COAL!!!
 Coal: Grrr...
-Rudie: Oh uh... nevermind! Haha! Nevermind!",,,,,,,,,,,"Rudie: Oooh GIGI!!!
+Rudie: Oh uh... nevermind! Haha! Nevermind!",,,,,,,,,,,,,"Rudie: Oooh GIGI!!!
 Gigi: Aw man... Don't say it-
 Rudie: IT'S... CHRISTMAS!!!!!
 Gigi: Man... come on Rudie, you can't say this EVERY day I see you.
@@ -4603,7 +4605,7 @@ Scraps: Connie!! Stop snooping around the place!","Cosmo: Scraps have you been t
 Scraps: ...Maybe.
 Cosmo: Well I think the origami is really well done!
 Scraps: Really? Aw... I thought you were going to complain!
-Cosmo: Complain? Of course not!! I feel bad taking them apart...",,,"Eclipse: BARK BARK BARK!
+Cosmo: Complain? Of course not!! I feel bad taking them apart...",,,,,"Eclipse: BARK BARK BARK!
 Scraps: Eclipse please, I get enough of this from Pebble.
 Eclipse: BARK BARK AWOOO!!
 Scraps: HISSss! Knock it off!
@@ -4787,7 +4789,7 @@ Shelly: Connie!","Cosmo: …The plant in my room wilted recently.
 Shelly: Oh no, were you giving it enough water?
 Cosmo: Yeah! Maybe I gave it too much water?
 Shelly: You could ask Dandy for advice on that!
-Cosmo: …Uhm, no thanks Shelly. I think Dandy is the last person I want to ask.",,,"Shelly: Eclipse, why don't you ever show interest in my fossil collection? Pebble does.
+Cosmo: …Uhm, no thanks Shelly. I think Dandy is the last person I want to ask.",,,,,"Shelly: Eclipse, why don't you ever show interest in my fossil collection? Pebble does.
 Eclipse: I didn't even know you had one!
 Shelly: You…didn't? Eclipse they're some of my most prized possessions.
 Eclipse: Woah I had no idea! But no...I have an idea! Which is that you have a fossil collection!
@@ -4965,7 +4967,7 @@ Shrimpo: I'M NOT.
 Cosmo: W-what?
 Shrimpo: LET'S GO BACK.
 Cosmo: Shrimpo- no, we're not going back up???
-Shrimpo: YOU NEVER LISTEN TO ME, I HATE YOU!!!",,,"Eclipse: Shrimpo, howl with me!
+Shrimpo: YOU NEVER LISTEN TO ME, I HATE YOU!!!",,,,,"Eclipse: Shrimpo, howl with me!
 Shrimpo: NO! I HATE HOWLING!
 Eclipse: Oooh so you wanna be quiet then?
 Shrimpo: NO! I REFUSE TO BE QUIET RAAAHHH!
@@ -5138,7 +5140,7 @@ Soulvester: Hmm? Do what, Cosmo?
 Cosmo: How are you so brave? You're always protecting the other Toons.
 Soulvester: It is my knightly duty to protect those who need it.
 Cosmo: Sometimes I feel like the best I can do is pretend to be brave...
-Soulvester: Maybe just pretending is the start.",,,"Soulvester: Eclipse, do you find yourself nervous? -I see your fur is a bit ruffled.
+Soulvester: Maybe just pretending is the start.",,,,,"Soulvester: Eclipse, do you find yourself nervous? -I see your fur is a bit ruffled.
 Eclipse: Oh that might just be static in the air! You should see me when I dry off! I'm so fluffy!
 Soulvester: Ah I suppose that would make sense, ignore my trivial comments.
 Eclipse: It's ok!! I know you're just super protective!
@@ -5301,7 +5303,7 @@ Cosmo: The one in the dining section? Isn't it meant to be 'Delectable'?
 Sprout: ...Yeah, yeah it is.
 Cosmo: ...
 Sprout: We're not fixing it are we?
-Cosmo: Hehehe- Nope!",,,,,"Sprout: Hm... Maybe I can cook some seafood after this...
+Cosmo: Hehehe- Nope!",,,,,,,"Sprout: Hm... Maybe I can cook some seafood after this...
 Finn: ...
 Sprout: ...
 Finn: Sprout?
@@ -5526,7 +5528,7 @@ Cosmo: Is something on your mind...?
 Squirm: I-I thought back to... a r-really SAD STORY REALLY, REALLY, SAD-
 Cosmo: Woah, woah... it's going to be alright! It's just a story, I'm sure there's other things to focus on.
 Squirm: YOU'RE RIGHT! Snf- WORSE THINGS!!! WAAAH!!!
-Cosmo: ...There, there- I'll let you just get all out your emotions.",,,,,"Finn: You know some fish get excited when they get to eat a worm!
+Cosmo: ...There, there- I'll let you just get all out your emotions.",,,,,,,"Finn: You know some fish get excited when they get to eat a worm!
 Squirm: W-what...?!
 Finn: Yeah! Worms get washed into water from the rain, and it's a nice change in diet for fish!
 Squirm: Why would you ever tell me this!? THAT'S AWFUL!!!
@@ -5690,7 +5692,7 @@ Cosmo: Sure! Anything I can help with?
 Teagan: If it's not too much trouble, would you be willing to bake some cookies for me?
 Cosmo: Oh, of course! Hosting another tea party?
 Teagan: Not this time, I simply adore your cookies with my tea! I can't get enough of them.
-Cosmo: Haha, I'm glad you enjoy them! I'll try to make some when I'm able to!",,,"Teagan: Eclipse, dear, you're shedding.
+Cosmo: Haha, I'm glad you enjoy them! I'll try to make some when I'm able to!",,,,,"Teagan: Eclipse, dear, you're shedding.
 Eclipse: Oh sorry Teagan!
 Teagan: Just be mindful of where your fur goes, please. Some found its way into my tea the other day.
 Eclipse: Did the tea taste better?
@@ -5878,7 +5880,7 @@ Tisha: Well... I could be better!
 Cosmo: Right, I could agree there.
 Tisha: That I could be better?
 Cosmo: Oh! No! I mean, I feel the same way!
-Tisha: -I was about to say! Hahaha...",,,"Tisha: Eclipse? Could you please be more careful?
+Tisha: -I was about to say! Hahaha...",,,,,"Tisha: Eclipse? Could you please be more careful?
 Eclipse: Why? What's wrong Tisha?
 Tisha: Yesterday during a blackout you knocked over a bottle of Poppy Pop. It took forever to clean up.
 Eclipse: Sorry Tisha, But when it's super dark, I can't help but make a mess!",,"Finn: Heya Tisha have you heard of the-
@@ -6029,7 +6031,7 @@ Cosmo: Of course!
 Toodles: I heard that's dangerous though!
 Cosmo: Dangerous? Well, they could be if you're not careful!
 Toodles: Oh ok!... Are you careful?
-Cosmo: Hah uhm- careful enough usually!",,,,"Toodles: Eggson! Eggson! I barely ever get to see you!!
+Cosmo: Hah uhm- careful enough usually!",,,,,,"Toodles: Eggson! Eggson! I barely ever get to see you!!
 Eggson: Ohoho! Is that who I think it is!
 Toodles: Hehehe! Yeah It's me! It's Toodles!
 Eggson: I know! I could never forget you little one!
@@ -6227,7 +6229,7 @@ Vee: You're checking in on me? I mean, I'm fine honestly.
 Cosmo: That's good to know, I was told you haven't been doing the best.
 Vee: What? -Who said that.
 Cosmo: Well, I uh...
-Vee: -Never mind, I know who. Sprout can ask me himself next time.",,,"Vee: Eclipse if you're going to stare at me, maybe back up a little bit?
+Vee: -Never mind, I know who. Sprout can ask me himself next time.",,,,,"Vee: Eclipse if you're going to stare at me, maybe back up a little bit?
 Eclipse: Oh sorry Vee! Your light is just soooo pretty.
 Vee: Thanks. I know. Maybe keep a little distance. You're gonna strain your eyes.
 Eclipse: So, stop looking at you...?
@@ -6450,7 +6452,7 @@ Connie: Nice to see you too Waxwell. Fall into any of your own traps lately?
 Waxwell: NO!
 Connie: You sure?
 Waxwell: YES and even if I DID no one SAW!
-Connie: You suuuure no one saw? Maybe anyone who waaaas invisible?",,,,"Waxwell: ECLIPSE, aren't you tired of being NICE?
+Connie: You suuuure no one saw? Maybe anyone who waaaas invisible?",,,,,,"Waxwell: ECLIPSE, aren't you tired of being NICE?
 Eclipse: Uhmm, no not really?
 Waxwell: Don't you just want to give IN to the BEAST inside??
 Eclipse: Oh yeah! All the time!",,,"Waxwell: Wonder what would happen if your wings were set ablaze!?
@@ -6594,7 +6596,7 @@ Yatta: COULD I!?
 Cosmo: ...Could you?
 Yatta: COULD I?!
 Cosmo: ...Yatta please.
-Yatta: Yeah! I COULD!",,,"Eclipse: Yatta, wanna go hunting?
+Yatta: Yeah! I COULD!",,,,,"Eclipse: Yatta, wanna go hunting?
 Yatta: OOH Hunting for WHAT!
 Eclipse: Prey!
 Yatta: PREY! Like CANDY prey?
